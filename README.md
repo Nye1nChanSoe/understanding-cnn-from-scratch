@@ -1,19 +1,14 @@
 # Understanding CNN from Scratch
 
-This repository contains the companion notebook for my Medium article:
-
-**ကွန်ပျူတာကို မြန်မာဂဏန်းတွေ ဖတ်တတ်အောင်ဘယ်လိုသင်ပေးမလဲ?  
-Understanding CNN from Scratch**
-
-<!-- ![Grad-CAM visualization of Burmese digit CNN](./assets/thumbnail.png) -->
+### [ကွန်ပျူတာကို မြန်မာဂဏန်းတွေ ဖတ်တတ်အောင်ဘယ်လိုသင်ပေးမလဲ?<br>(Understanding CNN from Scratch)](https://medium.com/@nye1nchansoe/ကွန်ပျူတာကို-မြန်မာဂဏန်းတွေ-ဖတ်တတ်အောင်ဘယ်လိုသင်ပေးမလဲ-understanding-cnn-from-scratch-8e6f64e39c91)
 
 The core implementation used for the article is inside:
 
 ```text
-notebooks/burmese_digits_cnn_pytorch.ipynb
+.
+└── notebooks/
+    └── burmese_digits_cnn_pytorch.ipynb
 ```
-
-This notebook trains a simple CNN on the BHDD Burmese handwritten digit dataset and includes the main experiments, feature map visualizations, prediction checks, and Grad-CAM results used to support the article.
 
 It is a learning project that shows how a Convolutional Neural Network can classify Burmese handwritten digits from `၀` to `၉`.
 
@@ -66,7 +61,7 @@ BHDD/data.pkl
   author    = {Swan Htet Aung and Hein Htet and Htoo Say Wah Khaing and Thuya Myo Nyunt},
   title     = {{BHDD}: A Burmese Handwritten Digit Dataset},
   journal   = {arXiv preprint arXiv:2603.21966},
-  year      = {2026}
+  year      = {2026},
   url       = {https://arxiv.org/abs/2603.21966}
 }
 ```
@@ -89,6 +84,4 @@ uv sync
 
 ## Article
 
-```text
-[Medium article link coming soon]
-```
+https://medium.com/@nye1nchansoe/ကွန်ပျူတာကို-မြန်မာဂဏန်းတွေ-ဖတ်တတ်အောင်ဘယ်လိုသင်ပေးမလဲ-understanding-cnn-from-scratch-8e6f64e39c91
