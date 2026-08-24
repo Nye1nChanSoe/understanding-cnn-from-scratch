@@ -1,6 +1,6 @@
 # Understanding CNN from Scratch
 
-### [ကွန်ပျူတာကို မြန်မာဂဏန်းတွေ ဖတ်တတ်အောင်ဘယ်လိုသင်ပေးမလဲ?<br>(Understanding CNN from Scratch)](https://medium.com/@nye1nchansoe/ကွန်ပျူတာကို-မြန်မာဂဏန်းတွေ-ဖတ်တတ်အောင်ဘယ်လိုသင်ပေးမလဲ-understanding-cnn-from-scratch-8e6f64e39c91)
+### [Building a CNN From Scratch for Burmese Handwritten Digit Recognition](https://medium.com/@nye1nchansoe/ကွန်ပျူတာကို-မြန်မာဂဏန်းတွေ-ဖတ်တတ်အောင်ဘယ်လိုသင်ပေးမလဲ-understanding-cnn-from-scratch-8e6f64e39c91)
 
 The core implementation used for the article is inside:
 
